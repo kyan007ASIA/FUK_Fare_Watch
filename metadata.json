@@ -1,0 +1,6 @@
+{
+  "name": "FUK Fare Watch - Aerospace Algorithmic Pricing",
+  "description": "Algorithmic fare monitor, predictive ML analytics, and dispatch console for Singapore Changi (SIN) to Fukuoka (FUK) direct flight corridor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
